@@ -1,6 +1,8 @@
 # API Chaves e Chapolin
 
-Esta API fornece informações sobre os episódios, personagens, frases e elenco dos programas "Chaves" e "Chapolin".
+Esta API fornece informações sobre os episódios, personagens, frases e elenco dos programas Chaves e Chapolin.
+
+Confira o artigo completo em: [Construindo APIs Poderosas Com Next.Js E TypeScript: Um Passo A Passo Inspirado Em Chaves E Chapolin](https://escoladaprogramacao.com.br/construindo-apis-poderosas-com-next-js-e-typescript-um-passo-a-passo-inspirado-em-chaves-e-chapolin/)
 
 ## Sumário
 
